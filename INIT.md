@@ -96,3 +96,41 @@ To generate architectural diagrams, you can use the **"Draw.io Integration"** ex
 4. Use the Draw.io editor to create your architectural diagrams.
 
 This extension will help you visualize and document the architecture of your project effectively.
+
+
+Frontend:
+React: For building the user interface.
+Redux: For state management.
+React Router: For handling routing in your application.
+Material-UI or Ant Design: For UI components and styling.
+Axios: For making HTTP requests.
+Formik: For handling forms.
+Yup: For form validation.
+Backend:
+Java Spring Boot: For building the backend API.
+Spring Security: For handling authentication and authorization.
+Hibernate: For ORM (Object-Relational Mapping) with your database.
+Spring Data JPA: For simplifying database access.
+Spring Cloud: For building microservices and distributed systems.
+MapStruct: For object mapping.
+Database:
+PostgreSQL: A powerful, open-source relational database.
+MongoDB: If you prefer a NoSQL database for more flexibility.
+Flyway or Liquibase: For database migrations and version control.
+DevOps and Deployment:
+Docker: For containerizing your application.
+Kubernetes: For container orchestration.
+Jenkins or GitHub Actions: For CI/CD pipelines.
+AWS or Azure: For cloud hosting and services.
+Terraform: For infrastructure as code.
+Helm: For managing Kubernetes applications.
+Prometheus & Grafana: For monitoring and alerting.
+Additional Tools:
+Git: For version control.
+Postman: For API testing.
+Swagger: For API documentation.
+Jest: For unit testing in React.
+JUnit: For unit testing in Spring Boot.
+SonarQube: For code quality and security analysis.
+Logback: For logging in Spring Boot.
+ELK Stack (Elasticsearch, Logstash, Kibana): For logging and monitoring.

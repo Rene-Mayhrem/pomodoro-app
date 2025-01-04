@@ -48,4 +48,11 @@ Provide a dark mode option for users who prefer a darker interface.
 Accessibility Features:
 
 Ensure the app is accessible to users with disabilities by following accessibility guidelines and providing features like screen reader support and keyboard navigation.
-These features can enhance the functionality and user experience of your task management tool, making it more versatile and appealing to a broader audience
+These features can enhance the functionality and user experience of your task management tool, making it more versatile and appealing to a broader audience.
+
+## Documentation
+
+All project documentation and diagrams can be found in the [docs](./docs) folder.
+
+- [Initial Version](./docs/INIT.md)
+- [Technologies and Tools](./docs/technologies.md)
